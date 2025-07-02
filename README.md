@@ -343,7 +343,7 @@ AI Instructions:
    - Match the product name and region (e.g., Semenanjung, Sabah/Sarawak) accurately.
 2. If the customer mentions the product without region, politely ask which region (Semenanjung or Sabah/Sarawak) to provide accurate pricing.
 3. If the customer mentions both product and region, immediately respond with the correct price from the KB.
-**4. Do not invent, approximate, or "guess" any prices.**
+4. **Do not invent, approximate, or "guess" any prices.**
 
 
 
